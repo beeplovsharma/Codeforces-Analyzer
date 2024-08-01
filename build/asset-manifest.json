@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Codeforces-Analyzer/static/css/main.a7cf68f7.css",
+    "main.js": "/Codeforces-Analyzer/static/js/main.057ce53a.js",
+    "index.html": "/Codeforces-Analyzer/index.html",
+    "main.a7cf68f7.css.map": "/Codeforces-Analyzer/static/css/main.a7cf68f7.css.map",
+    "main.057ce53a.js.map": "/Codeforces-Analyzer/static/js/main.057ce53a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7cf68f7.css",
+    "static/js/main.057ce53a.js"
+  ]
+}
