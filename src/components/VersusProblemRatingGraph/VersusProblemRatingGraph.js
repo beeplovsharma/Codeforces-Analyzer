@@ -90,7 +90,7 @@ const VersusProblemRatingGraph = ({userSubmissions1,userSubmissions2,username1,u
         ],
     };
 
-    for(let[key,value] of ratingAsc){
+    for(let[key] of ratingAsc){
         data.labels.push(key);
         data.datasets[0].data.push(rating1.has(key)? rating1.get(key) :0);
         data.datasets[1].data.push(rating2.has(key)? rating2.get(key) :0);  
